@@ -6,6 +6,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Marketing/PredictBuyer/predictBuyer.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/mlearning/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/mlearning/featureselection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fraud" afterPath="$PROJECT_DIR$/Fraud" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Marketing" afterPath="$PROJECT_DIR$/Marketing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core" afterPath="$PROJECT_DIR$/core" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Fraud/chargefraud.py" afterPath="$PROJECT_DIR$/Fraud/chargefraud.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Marketing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Marketing/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Marketing/CLV/CLV.py" afterPath="$PROJECT_DIR$/Marketing/CLV/CLV.py" />
@@ -27,6 +32,7 @@
     <favorites_list name="python" />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Fraud" />
   </component>
   <component name="ProjectFrameBounds">
