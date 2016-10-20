@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Fraud" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Marketing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$USER_HOME$/rue-datascience/python/Fraud" vcs="Git" />
+    <mapping directory="$USER_HOME$/rue-datascience/python/Marketing" vcs="Git" />
+    <mapping directory="$USER_HOME$/rue-datascience/python/core" vcs="Git" />
   </component>
 </project>
